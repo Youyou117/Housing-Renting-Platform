@@ -22,14 +22,14 @@ Makeup Data:  Renter (rntId, rntFirstName…)
                             Company (cpyId, cpyName…)
 
 
-###### Data Collection Technique
+#### Data Collection Technique
 
 We put the python code in the file called "Project0503-07_Python_Data_Collection_Code.py".   
 
 We wrote this program so that it could help us effectively get the real estate data from the rental website "www.apartment.com".
 
 
-Step1: Put the file on the Desktop and Install Python3 and use Anaconda to open the Spider 3
+#### Step1: Put the file on the Desktop and Install Python3 and use Anaconda to open the Spider 3
 
 Python3 Installation Address:
 Windows: https://www.python.org/downloads/windows/
@@ -39,7 +39,7 @@ Anaconda Installation Address:
 Windows: https://docs.anaconda.com/anaconda/install/windows/
 Mac: https://docs.anaconda.com/anaconda/install/mac-os/
 
-Step2: Run the code
+#### Step2: Run the code
 
 
 Suggestion: In order to run this program, you may first need to install the selenium package and chrome driver.
