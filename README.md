@@ -2,12 +2,12 @@
 
 This Readme file includes 5 questions and corresponding answers:
 
-#### Question1: How to collect data?
-#### Question2: How to execute the SQL implementation?
-#### Question3: How to see results in Tableau?
-#### Question4: How to test the website? 
-#### Question5 : What techniques were used for website application?
-#### Question6: How to play the video in our PPT?
+### Question1: How to collect data?
+### Question2: How to execute the SQL implementation?
+### Question3: How to see results in Tableau?
+### Question4: How to test the website? 
+### Question5 : What techniques were used for website application?
+### Question6: How to play the video in our PPT?
 
 (PS: We checked twice to make sure all the programs work on our laptops. If there does exist any problem , please feel free to contact us)
 
@@ -65,9 +65,7 @@ Finally, for the user queries and the count statements, execute the Project0503-
 Open the Tableau and login in with your user details.
 
 If you cannot see some sheets, be sure to click the regenerate the extract button and save it on your computer.
-If necessary, my Tableau username and password are provided here:
-Username: BUDT758_Student_132
-Password: yushengfu0421
+
 Open the file ‘Project0503-07_Tableau.twb’ to see the tables and dashboards.
 
 
@@ -124,13 +122,10 @@ Step4: Got the embedded code
 
 Apartment:
  
-
 Neighbourhood:
- 
 
 Room:
  
-
 Step5: Put it in my code and realize the connection
 
 
